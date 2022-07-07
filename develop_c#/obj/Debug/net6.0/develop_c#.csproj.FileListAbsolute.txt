@@ -1,0 +1,15 @@
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\bin\Debug\net6.0\develop_c#.exe
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\bin\Debug\net6.0\develop_c#.deps.json
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\bin\Debug\net6.0\develop_c#.runtimeconfig.json
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\bin\Debug\net6.0\develop_c#.dll
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\bin\Debug\net6.0\develop_c#.pdb
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.csproj.AssemblyReference.cache
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.AssemblyInfoInputs.cache
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.AssemblyInfo.cs
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.csproj.CoreCompileInputs.cache
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.dll
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\refint\develop_c#.dll
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.pdb
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\develop_c#.genruntimeconfig.cache
+D:\vDeveloper\c#\practice\Lesson_1\develop_c#\obj\Debug\net6.0\ref\develop_c#.dll
